@@ -1,2 +1,2 @@
 # node-postgresql-api
- Somple Node Api with PostgreSQL
+ Sample Node Api with PostgreSQL
